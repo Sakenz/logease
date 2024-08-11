@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+
+# Output directories
+dist/
+build/
+
+# TypeScript build info file
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Coverage directory (for testing)
+coverage/
